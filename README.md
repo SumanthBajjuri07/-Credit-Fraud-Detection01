@@ -7,6 +7,9 @@ It is important that credit card companies are able to recognize fraudulent cred
 
 
 Detecting the Fraud Credit transactions using ANN
+
 SK-Learn, Keras, Matplotlib, Numpy, Pandas
+
 Models- Decision Tree, Random Forest, ANN
+
 Accuracy, Precision, Recall, F1 Score for all the models
